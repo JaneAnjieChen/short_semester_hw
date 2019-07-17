@@ -5,7 +5,11 @@
 *.egg-info
 *.json
 
-
+#c
+*.json
+#.vcxproj
+#.vcxproj.user
+#.vcxproj.filters
 
 
 # Object files
