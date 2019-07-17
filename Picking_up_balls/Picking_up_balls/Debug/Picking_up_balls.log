@@ -1,0 +1,4 @@
+﻿  Model_plate_and_balls.c
+c:\summer\samples\games\picking_up_balls\picking_up_balls\model_plate_and_balls.c(81): warning C4101: “posbody”: 未引用的局部变量
+c:\summer\samples\games\picking_up_balls\picking_up_balls\model_plate_and_balls.c(102): warning C4101: “pTail”: 未引用的局部变量
+  Picking_up_balls.vcxproj -> C:\summer\samples\games\Debug\Picking_up_balls.exe
